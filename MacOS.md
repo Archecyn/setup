@@ -24,6 +24,15 @@ Python + Conda + Jupyter
 RustDesk
 Tailscale
 
+Ollama
+
+```
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+LM Studio - https://lmstudio.ai/
+
+
 <br />
 
 # Terminal Setup
